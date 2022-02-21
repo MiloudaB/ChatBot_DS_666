@@ -1,0 +1,76 @@
+2022-02-21 22:01:15,051,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:01:17,034,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:01:20,201,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:01:25,423,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:01:34,489,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:01:51,990,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:02:28,604,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:02:29,479,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:02:30,347,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:02:30,567,message sent : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:02:31,109,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:02:31,309,message sent : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:02:58,598,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:02:59,640,message sent : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:03:59,926,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:04:13,966,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:06:40,293,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:06:40,898,message sent : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:06:41,448,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:06:41,694,message sent : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:06:42,258,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:06:42,535,message sent : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:07:11,375,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:07:25,189,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:08:54,028,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:08:54,281,message sent : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:08:58,031,message recived : /end, response : I am happy if I can help you again, see you later!
+2022-02-21 22:08:58,429,message sent : I am happy if I can help you again, see you later!
+2022-02-21 22:09:27,936,message recived : /menu, response : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:09:28,232,message sent : You are in the main menu, please use one of the following commands: 
+/track : To track your code 
+/end : To end the conversation.
+2022-02-21 22:09:30,415,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:09:34,497,message recived : 454, response : Oups!!! I could not find your command, if you mean track then use /track To track your code or use /end to end the conversation.
+2022-02-21 22:09:40,405,message recived : 88, response : Oups!!! I could not find your command, if you mean track then use /track To track your code or use /end to end the conversation.
+2022-02-21 22:09:40,679,message sent : Oups!!! I could not find your command, if you mean track then use /track To track your code or use /end to end the conversation.
+2022-02-21 22:09:44,344,message recived : /track, response : You are in the track menu, please type the code you want to track, or  use /menu to return to the main menu
+2022-02-21 22:09:46,423,message recived : 88, response : Oups!!! I could not find your command, if you mean track then use /track To track your code or use /end to end the conversation.
+2022-02-21 22:09:46,794,message sent : Your code is on the system! Try with these commands 
+ /track to track another code 
+ . /menu to return to the main menu. 
+ /end to end the conversation.
